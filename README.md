@@ -53,16 +53,17 @@ endmodule
 
 **RTL realization**
 
-![285831617-8766d4a1-0593-4b06-a5f4-8c977e44b4ad](https://github.com/sanjayashwinP/BOOLEAN_FUNCTION_MINIMIZATION/assets/147473265/f0108d3e-78c4-49fa-9661-c9d5bbf2b99b)
+![image](https://github.com/sanjayashwinP/BOOLEAN_FUNCTION_MINIMIZATION/assets/147473265/f4e0dc5c-6df7-46b1-90a8-fbdbcf6bb658)
 
 **Truth Table**
 
 ![285832032-236326de-e839-4fad-908b-bb236e0a13dd](https://github.com/sanjayashwinP/BOOLEAN_FUNCTION_MINIMIZATION/assets/147473265/399f99d5-79cc-443a-b54a-41d7a0326a5c)
 
+![image](https://github.com/sanjayashwinP/BOOLEAN_FUNCTION_MINIMIZATION/assets/147473265/86318cdd-6571-45dd-8e95-6458eb6074cc)
 
 **Timing Diagram**
 
-![311513121-88739516-ac69-4d18-b871-91130468cac3](https://github.com/sanjayashwinP/BOOLEAN_FUNCTION_MINIMIZATION/assets/147473265/841366e9-cb7c-4e5c-abd8-a60ea7312a77)
+![image](https://github.com/sanjayashwinP/BOOLEAN_FUNCTION_MINIMIZATION/assets/147473265/07b5e0bd-6050-4fb7-86af-4113419d5e6e)
 
 **Result:**
 
